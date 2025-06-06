@@ -1,1 +1,1 @@
-include ':app-release'
+rootProject.name = "AARFramework"
